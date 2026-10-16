@@ -225,3 +225,7 @@ Keep GitHub and Word editions aligned manually; no automatic synchronisation is 
 You may share and adapt this methodology, including commercially, with appropriate attribution, a licence link and an indication of changes. Shared adaptations must use the same or a compatible licence. Applying the methodology does not automatically license the resulting article under CC BY-SA.
 
 Daily questions: Who am I writing for? What am I saying and why? What is concrete and supported? What is vague, repetitive or overstated? Have I read the actual source? What will the reader take away, and who is responsible?
+
+
+## Public edition and parallel development
+Marius Pareščius develops Writing DNA independently and maintains parallel versions of the product. This public edition is one development line made available so that other users can use, adapt and improve the methodology under CC BY-SA 4.0. Other versions may exist and evolve separately; this repository does not necessarily contain every feature or change from those versions. The licence granted for this public edition remains applicable to it. Third-party contributions retain their applicable licence terms.
