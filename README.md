@@ -1,35 +1,33 @@
 # Writing DNA
 
-Universali kokybiško teksto kūrimo ir redagavimo metodika lietuvių kalba.
+A methodology for clear, engaging and reliable AI-assisted writing.
 
-**Versija:** 1.0 · **Data:** 2026-10-16
+Author: Marius Pareščius | Version 1.3 | 16 October 2026
 
-## Metodika
+## Documentation
 
-[Atidaryti pilną Writing DNA v1.0 metodiką](Writing-DNA-v1.0.lt.md)
+- [English methodology and Writing in English](Writing-DNA-v1.3.en.md): primary documentation, shared principles, modes, prompts, examples and quality checks.
+- [Lietuviška versija — Rašymas lietuvių kalba](Writing-DNA-v1.3.lt.md): independent Lithuanian language module, used with the shared principles.
+- [Historical complete Lithuanian v1.0](Writing-DNA-v1.0.lt.md): preserved for reference.
 
-Metodikoje – 14 skyrių: rašymo principai, žurnalistinis ir publicistinis režimai, įtraukiantis pasakojimas, lietuvių kalba, DI šablonų ir klaidų prevencija, faktų bei šaltinių patikra, darbo eiga, užduočių ruošiniai, redagavimo pavyzdžiai ir kontrolinis sąrašas.
+Documentation language and output language are separate choices. Apply the shared methodology and the relevant language module. Specify topic, audience, purpose, output language, mode and sources. Modes: journalistic, opinion and commentary, analytical; experimental is an optional layer. Spanish, Russian and Ukrainian are possible future modules, not released editions.
 
-## Kaip pradėti
+## Quick start
 
-1. Perskaitykite metodiką ir užpildykite užduoties kortelę.
-2. Pasirinkite žanrą, auditoriją, tikslą ir teksto apimtį.
-3. Surinkite šaltinius ir pažymėkite nežinomus dalykus.
-4. Parenkite juodraštį ir atlikite turinio, struktūros bei kalbos redagavimą.
-5. Patikrinkite faktus, citatas ir nuorodas; užpildykite galutinį kontrolinį sąrašą.
+Upload the methodology and relevant language module to your AI tool, or copy them into project instructions. Ask for a draft, editorial review and factual verification. Another account does not automatically inherit the instructions. Human review remains necessary. No AI-detector evasion is promised.
 
-Dirbdami su DI, pateikite metodikos failą arba jo tekstą kartu su užduotimi. Metodikos 10.1 skyriuje rasite paruoštas užduotis planui, redakcinei peržiūrai, faktų auditui ir galutiniam redagavimui.
+## Licence
 
-## Kokybės principas
+© 2026 Marius Pareščius. The v1.3 methodology and language module are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Give appropriate credit, link the licence and identify changes. Shared adaptations must use the same or a compatible licence. Articles produced using the method are not automatically covered. Third-party material retains its own terms.
 
-Aiški mintis, patikimas pagrindas ir gyvas pasakojimas. Metodika skirta teksto kokybei gerinti; ji nežada DI detektorių apėjimo. Už galutinį tekstą ir jo faktų patikrą atsako žmogus.
+Prepared with ChatGPT (OpenAI). See the methodology for sources and research limitations.
 
-## Versijos ir pakeitimai
+## Versions
 
-- **v1.0 (2026-10-16):** pilna pradinė metodika, perkelta iš parengtos Google Docs versijos į Markdown. Pakeistas pateikimo formatas; turinio skyriai išlaikyti.
+v1.0: initial Lithuanian edition. Supplementary working v1.1/v1.2: authorship, modes and portability. v1.3: English-primary documentation, separate language modules and CC BY-SA 4.0.
 
-Google Docs ir GitHub kopijos automatiškai nesinchronizuoja. Atnaujinant metodiką reikia suderinti abiejų kopijų versijas.
+Word and GitHub editions are maintained manually. Experiments do not automatically alter stable rules. Submit corrections through Issues or pull requests, with evidence for factual changes.
 
-## Pasiūlymai
 
-Pastabas ir taisymų pasiūlymus galima teikti per šios repozitorijos „Issues“ arba „Pull requests“. Pasiūlyme nurodykite konkretų skyrių, problemą ir siūlomą pakeitimą; faktiniams taisymams pridėkite šaltinį.
+## Public edition and parallel development
+Marius Pareščius develops Writing DNA independently and maintains parallel versions of the product. This public edition is one development line made available so that other users can use, adapt and improve the methodology under CC BY-SA 4.0. Other versions may exist and evolve separately; this repository does not necessarily contain every feature or change from those versions. The licence granted for this public edition remains applicable to it. Third-party contributions retain their applicable licence terms.
